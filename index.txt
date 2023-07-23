@@ -1,0 +1,2 @@
+What is JDBC?
+JDBC is an abstraction layer that allows users to choose between databases. JDBC enables developers to write database applications in Java without having to concern themselves with the underlying details of a particular database.
